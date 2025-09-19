@@ -13,3 +13,15 @@ A simple **PHP + MySQL file sharing application** with video playback support an
 1. Clone the repo
    ```bash
    git clone git clone https://github.com/lavirana/php-filesharing-app.git
+
+## Import Database
+Import `db.sql` into MySQL
+
+## Auto Delete
+
+- Setup a cron job for delete_cron.php:
+- php /path/to/delete_cron.php
+
+📸 Screenshots
+
+
