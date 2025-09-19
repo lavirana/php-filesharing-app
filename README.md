@@ -24,4 +24,12 @@ Import `db.sql` into MySQL
 
 📸 Screenshots
 
+<img width="1436" height="774" alt="Screenshot 2025-09-19 at 10 35 02 PM" src="https://github.com/user-attachments/assets/d3ce610b-f684-472f-9c13-1479855be96a" />
+
+<img width="1434" height="778" alt="Screenshot 2025-09-19 at 10 35 12 PM" src="https://github.com/user-attachments/assets/8bebf63f-eaba-4114-91ea-692164647b4a" />
+
+<img width="1434" height="772" alt="Screenshot 2025-09-19 at 10 35 28 PM" src="https://github.com/user-attachments/assets/2c4485e4-1aab-4e50-b8d8-c54eec36c5ad" />
+
+
+
 
